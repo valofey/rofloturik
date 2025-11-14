@@ -3,105 +3,142 @@
     "Тима": {
       "name": "Тима",
       "present": true,
-      "wins": 0,
+      "wins": 2,
       "losses": 0,
-      "break_first_count": 0,
+      "break_first_count": 1,
       "played_with": [
-        "Дима Т."
+        "Аня",
+        "Саня"
       ],
-      "opponents_defeated": [],
-      "win_durations": [],
+      "opponents_defeated": [
+        "Аня",
+        "Саня"
+      ],
+      "win_durations": [
+        854.337418,
+        1330.256311
+      ],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "last_played_timestamp": 1747504452.487861,
+      "current_rank": 2
     },
     "Алина": {
       "name": "Алина",
       "present": true,
-      "wins": 0,
-      "losses": 0,
-      "break_first_count": 0,
-      "played_with": [],
-      "opponents_defeated": [],
-      "win_durations": [],
+      "wins": 1,
+      "losses": 1,
+      "break_first_count": 1,
+      "played_with": [
+        "Лиза",
+        "Эл"
+      ],
+      "opponents_defeated": [
+        "Эл"
+      ],
+      "win_durations": [
+        1052.141764
+      ],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "last_played_timestamp": 1747504758.5239584,
+      "current_rank": 8
     },
     "Саня": {
       "name": "Саня",
       "present": true,
-      "wins": 0,
-      "losses": 0,
-      "break_first_count": 0,
-      "played_with": [],
-      "opponents_defeated": [],
-      "win_durations": [],
+      "wins": 1,
+      "losses": 1,
+      "break_first_count": 1,
+      "played_with": [
+        "Варя",
+        "Тима"
+      ],
+      "opponents_defeated": [
+        "Варя"
+      ],
+      "win_durations": [
+        7.843575
+      ],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "last_played_timestamp": 1747504452.487861,
+      "current_rank": 4
     },
     "Андрей": {
       "name": "Андрей",
       "present": true,
-      "wins": 0,
+      "wins": 2,
       "losses": 0,
-      "break_first_count": 0,
-      "played_with": [],
-      "opponents_defeated": [],
-      "win_durations": [],
+      "break_first_count": 2,
+      "played_with": [
+        "Петя",
+        "Даня"
+      ],
+      "opponents_defeated": [
+        "Петя",
+        "Даня"
+      ],
+      "win_durations": [
+        836.585993,
+        923.563656
+      ],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
+      "last_played_timestamp": 1747504045.7985294,
       "current_rank": 1
     },
     "Дима Т.": {
       "name": "Дима Т.",
       "present": true,
-      "wins": 0,
-      "losses": 0,
-      "break_first_count": 1,
+      "wins": 1,
+      "losses": 1,
+      "break_first_count": 2,
       "played_with": [
-        "Тима"
+        "Лиза",
+        "Варя"
       ],
-      "opponents_defeated": [],
-      "win_durations": [],
+      "opponents_defeated": [
+        "Варя"
+      ],
+      "win_durations": [
+        63.990891
+      ],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "last_played_timestamp": 1747503186.233627,
+      "current_rank": 5
     },
     "Эл": {
       "name": "Эл",
       "present": true,
       "wins": 0,
-      "losses": 0,
+      "losses": 2,
       "break_first_count": 1,
       "played_with": [
-        "Даня"
+        "Петя",
+        "Алина"
       ],
       "opponents_defeated": [],
       "win_durations": [],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "last_played_timestamp": 1747504512.4172518,
+      "current_rank": 10
     },
     "Варя": {
       "name": "Варя",
       "present": true,
       "wins": 0,
-      "losses": 0,
-      "break_first_count": 0,
+      "losses": 2,
+      "break_first_count": 1,
       "played_with": [
-        "Лиза"
+        "Дима Т.",
+        "Саня"
       ],
       "opponents_defeated": [],
       "win_durations": [],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "last_played_timestamp": 1747503186.233627,
+      "current_rank": 10
     },
     "Ваня": {
       "name": "Ваня",
-      "present": true,
+      "present": false,
       "wins": 0,
       "losses": 0,
       "break_first_count": 0,
@@ -110,11 +147,31 @@
       "win_durations": [],
       "extra_games_played": 0,
       "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "current_rank": 0
     },
     "Петя": {
       "name": "Петя",
       "present": true,
+      "wins": 1,
+      "losses": 1,
+      "break_first_count": 1,
+      "played_with": [
+        "Андрей",
+        "Эл"
+      ],
+      "opponents_defeated": [
+        "Эл"
+      ],
+      "win_durations": [
+        1326.167619
+      ],
+      "extra_games_played": 0,
+      "last_played_timestamp": 1747504512.4172518,
+      "current_rank": 9
+    },
+    "Ася": {
+      "name": "Ася",
+      "present": false,
       "wins": 0,
       "losses": 0,
       "break_first_count": 0,
@@ -123,41 +180,33 @@
       "win_durations": [],
       "extra_games_played": 0,
       "last_played_timestamp": 0.0,
-      "current_rank": 1
-    },
-    "Ася": {
-      "name": "Ася",
-      "present": true,
-      "wins": 0,
-      "losses": 0,
-      "break_first_count": 0,
-      "played_with": [
-        "Дима М."
-      ],
-      "opponents_defeated": [],
-      "win_durations": [],
-      "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "current_rank": 0
     },
     "Лиза": {
       "name": "Лиза",
       "present": true,
-      "wins": 0,
+      "wins": 2,
       "losses": 0,
-      "break_first_count": 1,
+      "break_first_count": 0,
       "played_with": [
-        "Варя"
+        "Дима Т.",
+        "Алина"
       ],
-      "opponents_defeated": [],
-      "win_durations": [],
+      "opponents_defeated": [
+        "Дима Т.",
+        "Алина"
+      ],
+      "win_durations": [
+        1773.076944,
+        1636.285938
+      ],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "last_played_timestamp": 1747504758.5239584,
+      "current_rank": 3
     },
     "Костя": {
       "name": "Костя",
-      "present": true,
+      "present": false,
       "wins": 0,
       "losses": 0,
       "break_first_count": 0,
@@ -166,139 +215,247 @@
       "win_durations": [],
       "extra_games_played": 0,
       "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "current_rank": 0
     },
     "Даня": {
       "name": "Даня",
       "present": true,
-      "wins": 0,
-      "losses": 0,
-      "break_first_count": 0,
+      "wins": 1,
+      "losses": 1,
+      "break_first_count": 1,
       "played_with": [
-        "Эл"
+        "Андрей",
+        "Дима М."
       ],
-      "opponents_defeated": [],
-      "win_durations": [],
+      "opponents_defeated": [
+        "Дима М."
+      ],
+      "win_durations": [
+        975.752367
+      ],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "last_played_timestamp": 1747504045.7985294,
+      "current_rank": 6
     },
     "Аня": {
       "name": "Аня",
       "present": true,
       "wins": 0,
-      "losses": 0,
-      "break_first_count": 0,
-      "played_with": [],
-      "opponents_defeated": [],
-      "win_durations": [],
-      "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
-    },
-    "Дима М.": {
-      "name": "Дима М.",
-      "present": true,
-      "wins": 0,
-      "losses": 0,
+      "losses": 2,
       "break_first_count": 1,
       "played_with": [
-        "Ася"
+        "Дима М.",
+        "Тима"
       ],
       "opponents_defeated": [],
       "win_durations": [],
       "extra_games_played": 0,
-      "last_played_timestamp": 0.0,
-      "current_rank": 1
+      "last_played_timestamp": 1747505081.2069604,
+      "current_rank": 10
+    },
+    "Дима М.": {
+      "name": "Дима М.",
+      "present": true,
+      "wins": 1,
+      "losses": 1,
+      "break_first_count": 0,
+      "played_with": [
+        "Аня",
+        "Даня"
+      ],
+      "opponents_defeated": [
+        "Аня"
+      ],
+      "win_durations": [
+        1035.394702
+      ],
+      "extra_games_played": 0,
+      "last_played_timestamp": 1747505081.2069604,
+      "current_rank": 7
     }
   },
   "table_names": [
-    "Стол 1",
-    "Стол 2",
-    "Стол 3",
-    "Стол 4"
+    "16",
+    "17",
+    "18",
+    "19"
   ],
-  "active_matches": {
-    "0": {
-      "p_red": "Дима Т.",
-      "p_blue": "Тима",
-      "table_name": "Стол 1",
+  "active_matches": {},
+  "match_queue": [],
+  "finished_matches": [
+    {
+      "p_red": "Варя",
+      "p_blue": "Саня",
+      "table_name": "16",
       "table_idx": 0,
-      "start_time": "2025-05-17T16:32:25.826736",
-      "end_time": null,
-      "winner": null,
-      "match_timer_start_monotonic": 205408.941079
+      "start_time": "2025-05-17T20:02:21.279073",
+      "end_time": "2025-05-17T20:02:29.122648",
+      "winner": "Саня",
+      "match_timer_start_monotonic": null
     },
-    "1": {
-      "p_red": "Дима М.",
-      "p_blue": "Ася",
-      "table_name": "Стол 2",
-      "table_idx": 1,
-      "start_time": "2025-05-17T16:32:25.828739",
-      "end_time": null,
-      "winner": null,
-      "match_timer_start_monotonic": 205408.943082
-    },
-    "2": {
-      "p_red": "Эл",
-      "p_blue": "Даня",
-      "table_name": "Стол 3",
-      "table_idx": 2,
-      "start_time": "2025-05-17T16:32:25.829737",
-      "end_time": null,
-      "winner": null,
-      "match_timer_start_monotonic": 205408.94408
-    },
-    "3": {
-      "p_red": "Лиза",
-      "p_blue": "Варя",
-      "table_name": "Стол 4",
+    {
+      "p_red": "Андрей",
+      "p_blue": "Петя",
+      "table_name": "19",
       "table_idx": 3,
-      "start_time": "2025-05-17T16:32:25.831737",
-      "end_time": null,
-      "winner": null,
-      "match_timer_start_monotonic": 205408.94608
+      "start_time": "2025-05-17T20:02:21.288956",
+      "end_time": "2025-05-17T20:16:17.874949",
+      "winner": "Андрей",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Даня",
+      "p_blue": "Дима М.",
+      "table_name": "17",
+      "table_idx": 1,
+      "start_time": "2025-05-17T20:02:21.281564",
+      "end_time": "2025-05-17T20:18:37.033931",
+      "winner": "Даня",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Эл",
+      "p_blue": "Алина",
+      "table_name": "18",
+      "table_idx": 2,
+      "start_time": "2025-05-17T20:02:21.284671",
+      "end_time": "2025-05-17T20:19:53.426435",
+      "winner": "Алина",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Тима",
+      "p_blue": "Аня",
+      "table_name": "19",
+      "table_idx": 3,
+      "start_time": "2025-05-17T20:16:17.887492",
+      "end_time": "2025-05-17T20:30:32.224910",
+      "winner": "Тима",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Дима Т.",
+      "p_blue": "Лиза",
+      "table_name": "16",
+      "table_idx": 0,
+      "start_time": "2025-05-17T20:02:29.137120",
+      "end_time": "2025-05-17T20:32:02.214064",
+      "winner": "Лиза",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Дима Т.",
+      "p_blue": "Варя",
+      "table_name": "19",
+      "table_idx": 3,
+      "start_time": "2025-05-17T20:32:02.242736",
+      "end_time": "2025-05-17T20:33:06.233627",
+      "winner": "Дима Т.",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Андрей",
+      "p_blue": "Даня",
+      "table_name": "17",
+      "table_idx": 1,
+      "start_time": "2025-05-17T20:32:02.234873",
+      "end_time": "2025-05-17T20:47:25.798529",
+      "winner": "Андрей",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Саня",
+      "p_blue": "Тима",
+      "table_name": "16",
+      "table_idx": 0,
+      "start_time": "2025-05-17T20:32:02.231550",
+      "end_time": "2025-05-17T20:54:12.487861",
+      "winner": "Тима",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Петя",
+      "p_blue": "Эл",
+      "table_name": "19",
+      "table_idx": 3,
+      "start_time": "2025-05-17T20:33:06.249632",
+      "end_time": "2025-05-17T20:55:12.417251",
+      "winner": "Петя",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Алина",
+      "p_blue": "Лиза",
+      "table_name": "18",
+      "table_idx": 2,
+      "start_time": "2025-05-17T20:32:02.238020",
+      "end_time": "2025-05-17T20:59:18.523958",
+      "winner": "Лиза",
+      "match_timer_start_monotonic": null
+    },
+    {
+      "p_red": "Аня",
+      "p_blue": "Дима М.",
+      "table_name": "17",
+      "table_idx": 1,
+      "start_time": "2025-05-17T20:47:25.812258",
+      "end_time": "2025-05-17T21:04:41.206960",
+      "winner": "Дима М.",
+      "match_timer_start_monotonic": null
     }
-  },
-  "match_queue": [
+  ],
+  "round_idx": 1,
+  "current_round_start_time": "2025-05-17T20:32:02.227533",
+  "tournament_started": true,
+  "tournament_finish_screen_shown": true,
+  "played_pairs": [
     [
-      "Алина",
+      "Лиза",
+      "Дима Т."
+    ],
+    [
+      "Тима",
+      "Саня"
+    ],
+    [
+      "Петя",
       "Андрей"
     ],
     [
       "Аня",
-      "Петя"
+      "Тима"
     ],
     [
-      "Костя",
-      "Саня"
+      "Аня",
+      "Дима М."
     ],
     [
-      "Ваня",
-      null
-    ]
-  ],
-  "finished_matches": [],
-  "round_idx": 0,
-  "current_round_start_time": "2025-05-17T16:32:25.818739",
-  "tournament_started": true,
-  "tournament_finish_screen_shown": false,
-  "played_pairs": [
-    [
-      "Варя",
-      "Лиза"
+      "Петя",
+      "Эл"
     ],
     [
-      "Эл",
+      "Лиза",
+      "Алина"
+    ],
+    [
+      "Андрей",
       "Даня"
     ],
     [
-      "Тима",
-      "Дима Т."
+      "Алина",
+      "Эл"
     ],
     [
-      "Дима М.",
-      "Ася"
+      "Даня",
+      "Дима М."
+    ],
+    [
+      "Дима Т.",
+      "Варя"
+    ],
+    [
+      "Варя",
+      "Саня"
     ]
   ],
   "initial_ranks": {
@@ -309,11 +466,8 @@
     "Дима Т.": 1,
     "Эл": 1,
     "Варя": 1,
-    "Ваня": 1,
     "Петя": 1,
-    "Ася": 1,
     "Лиза": 1,
-    "Костя": 1,
     "Даня": 1,
     "Аня": 1,
     "Дима М.": 1

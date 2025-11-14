@@ -25,7 +25,7 @@ STATE_FILE = Path("state.json")
 AUTOSAVE_INTERVAL = 30  # seconds
 
 TOURNAMENT_END_DATETIME = datetime.datetime(2025, 5, 17, 21, 0, 0)
-# TOURNAMENT_END_DATETIME = datetime.datetime.now() + datetime.timedelta(minutes=1) # For quick testing
+#TOURNAMENT_END_DATETIME = datetime.datetime.now() + datetime.timedelta(minutes=1) # For quick testing
 
 MAX_TABLES = 4
 
